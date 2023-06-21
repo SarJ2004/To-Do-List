@@ -98,9 +98,9 @@ section {
     outline: none;
 }
 
-.newItemEntry form input[type=text]:focus,
-.newItemEntry form input[type=text]:hover {
-    box-shadow: 4px 2px 5px #000;
+.newItemEntry form input[type=text]:hover,
+.newItemEntry form input[type=text]:focus {
+   
     border-bottom: 2px solid black;
 }
 
