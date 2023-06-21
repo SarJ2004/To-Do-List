@@ -107,7 +107,7 @@ section {
 
 .newItemEntry form button {
     font-size: 1.25rem;
-    background-color: #4caf50;
+    background-color: green;
     padding: .75rem;
 }
 
@@ -132,7 +132,7 @@ section {
 
 .listContainer .listTitle button {
     font-size: 1rem;
-    background-color: #9f6060;
+    background-color: red;
     padding: 0 0 0.1rem;
     margin-bottom: 0.5rem;
 
